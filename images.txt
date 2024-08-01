@@ -13,4 +13,4 @@ jumpserver/core-ce:v3.10.10
 jumpserver/web:v3.10.10
 jumpserver/magnus:v3.10.10
 jumpserver/chen:v3.10.10
-rapid7/metasploitable2
+tleemcjr/metasploitable2
