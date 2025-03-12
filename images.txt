@@ -1,1 +1,1 @@
-zemal:watchvuln:latest
+zemal/watchvuln:latest
